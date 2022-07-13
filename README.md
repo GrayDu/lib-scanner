@@ -2,11 +2,11 @@
 
 ```
   # global install
-  $ npm install -g scanner
+  $ npm install -g lg-scanner
 ```
 
 # 使用
 
 ```
-  $ scanner init
+  $ lg-scanner init
 ```
