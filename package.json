@@ -1,0 +1,26 @@
+{
+  "name": "lg-scanner",
+  "version": "1.0.0-beta3",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/enter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scan",
+    "dependencies"
+  ],
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": "du",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.1.0",
+    "fs-extra": "^10.1.0",
+    "ora": "^5.0.0"
+  }
+}

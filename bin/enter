@@ -1,0 +1,25 @@
+#! /usr/bin/env node
+const chalk = require('chalk')
+
+const program = require('commander')
+
+
+//name 和 usage 方法分别配置 cli 名称和 --help 第一行提示
+program.name("lg-scanner")
+       .usage(`<command> [option]`)
+       .version(`lg-scanner ${require("../package.json").version}`)
+
+
+program
+  .command("init")
+  .description("scan the dependencies of project")
+  .action((options) => {
+    require("../lib/create")(options)
+  })
+
+
+//解析用户执行时输入的参数
+// process.argv 是 nodejs 提供的属性
+// 如 npm run server --port 3000 后面的 --port 3000 就是用户输入的参数
+program.parse(process.argv)
+
