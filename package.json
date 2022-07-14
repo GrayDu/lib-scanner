@@ -1,6 +1,6 @@
 {
   "name": "lg-scanner",
-  "version": "1.0.0-beta4",
+  "version": "1.0.0-beta6",
   "description": "",
   "main": "index.js",
   "bin": "./bin/enter",

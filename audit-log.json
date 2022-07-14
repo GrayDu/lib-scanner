@@ -1,1 +1,11 @@
-{"outdated":[],"audit":[{"level":"Critical","message":"Prototype Pollution in minimist ","package":"minimist","isdev":false,"path":"minimist ","referrer":"https://github.com/advisories/GHSA-xvch-5gv4-984h"}]}
+{
+  "outdated": [],
+  "audit": [{
+    "level": "Critical",
+    "message": "Prototype Pollution in minimist ",
+    "package": "minimist",
+    "isdev": false,
+    "path": "minimist ",
+    "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h"
+  }]
+}
