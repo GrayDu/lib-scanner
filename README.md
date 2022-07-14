@@ -28,12 +28,13 @@
     ],
     // npm 漏洞包检查
     "audit": [{
-      "level": "Critical",  // 严重等级 取值['Ciritical', 'High', 'Moderate', 'Low']
-      "message": "Prototype Pollution in minimist ", // 漏洞原因
+      "level": "critical",  // 严重等级 取值['ciritical', 'high', 'moderate', 'low']
+      "message": "Prototype Pollution in minimist ", // 漏洞原因（可能为空）
       "package": "minimist", // 包名
       "isdev": false, // 是否开发环境依赖包
       "path": "minimist ", // 当前包在 node_modules文件夹下的路径
-      "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h" // 漏洞具体信息参考网址
+      "range": "<2.0.0", // 漏洞影响版本
+      "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h" // 漏洞具体信息参考网址（可能为空）
     }]
   }
 ```
