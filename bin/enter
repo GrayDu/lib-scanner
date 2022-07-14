@@ -3,7 +3,6 @@ const chalk = require('chalk')
 
 const program = require('commander')
 
-
 //name 和 usage 方法分别配置 cli 名称和 --help 第一行提示
 program.name("lg-scanner")
        .usage(`<command> [option]`)
@@ -11,11 +10,32 @@ program.name("lg-scanner")
 
 
 program
-  .command("init")
+  .command("lib")
   .description("scan the dependencies of project")
   .action((options) => {
     require("../lib/create")(options)
   })
+
+program
+  .command('audit')
+  .description("audit npm libs and fix the problem")
+  .option('-f, --fix', 'auto fix problems', true)
+  .option('-l, --level', 'set audit level', 'low')
+  .action((options) => {
+    const Audit = require('../lib/audit')
+    const audit = new Audit(options)
+    audit.start()
+  })
+
+program
+  .command('update')
+  .description("auto update the outdated libs")
+  .action((options) => {
+    const Audit = require('../lib/audit')
+    const audit = new Audit(options)
+    audit.autoUpdate()
+  })
+
 
 
 //解析用户执行时输入的参数
