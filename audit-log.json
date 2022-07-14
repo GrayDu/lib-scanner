@@ -1,17 +1,1 @@
-[32moutdated: [39m
-  (empty array)
-[32maudit: [39m
-  [32m- [39m
-    [32mlevel: [39m   Critical
-    [32mmessage: [39m Prototype Pollution in minimist 
-    [32mpackage: [39m minimist
-    [32misdev: [39m   [31mfalse[39m
-    [32mpath: [39m    minimist 
-    [32mreferrer: [39mhttps://github.com/advisories/GHSA-xvch-5gv4-984h
-  [32m- [39m
-    [32mlevel: [39m   Critical
-    [32mmessage: [39m Prototype Pollution in minimist 
-    [32mpackage: [39m minimist
-    [32misdev: [39m   [31mfalse[39m
-    [32mpath: [39m    prettyjson > minimist 
-    [32mreferrer: [39mhttps://github.com/advisories/GHSA-xvch-5gv4-984h
+{"outdated":[],"audit":[{"level":"Critical","message":"Prototype Pollution in minimist ","package":"minimist","isdev":false,"path":"minimist ","referrer":"https://github.com/advisories/GHSA-xvch-5gv4-984h"}]}

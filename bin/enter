@@ -10,7 +10,7 @@ program.name("lg-scanner")
 
 
 program
-  .command("lib")
+  .command("init")
   .description("scan the dependencies of project")
   .action((options) => {
     require("../lib/create")(options)
