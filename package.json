@@ -18,10 +18,12 @@
   "author": "du",
   "license": "ISC",
   "dependencies": {
+    "@npmcli/arborist": "^5.3.0",
     "chalk": "^4.1.2",
     "commander": "^9.3.0",
     "fs-extra": "^10.1.0",
     "minimist": "^1.2.5",
+    "npm-audit-report": "^3.0.0",
     "ora": "^5.4.1"
   }
 }

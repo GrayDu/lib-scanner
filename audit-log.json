@@ -1,11 +1,1 @@
-{
-  "outdated": [],
-  "audit": [{
-    "level": "Critical",
-    "message": "Prototype Pollution in minimist ",
-    "package": "minimist",
-    "isdev": false,
-    "path": "minimist ",
-    "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h"
-  }]
-}
+{"outdated":[],"audit":[{"name":"minimist","severity":"critical","isDirect":true,"via":[{"source":1067342,"name":"minimist","dependency":"minimist","title":"Prototype Pollution in minimist","url":"https://github.com/advisories/GHSA-xvch-5gv4-984h","severity":"critical","cwe":["CWE-1321"],"cvss":{"score":9.8,"vectorString":"CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H"},"range":"<1.2.6"}],"effects":[],"range":"<1.2.6","nodes":["node_modules/minimist"],"fixAvailable":true}]}
