@@ -1,1 +1,0 @@
-{"outdated":[],"audit":[{"level":"critical","package":"minimist","message":"Prototype Pollution in minimist","path":["node_modules/minimist"],"referrer":"https://github.com/advisories/GHSA-xvch-5gv4-984h","range":"<1.2.6"}]}

@@ -28,13 +28,28 @@
     ],
     // npm 漏洞包检查
     "audit": [{
-      "level": "critical",  // 严重等级 取值['ciritical', 'high', 'moderate', 'low']
-      "message": "Prototype Pollution in minimist ", // 漏洞原因（可能为空）
-      "package": "minimist", // 包名
-      "isdev": false, // 是否开发环境依赖包
-      "path": "minimist ", // 当前包在 node_modules文件夹下的路径
-      "range": "<2.0.0", // 漏洞影响版本
-      "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h" // 漏洞具体信息参考网址（可能为空）
+      // 严重等级 取值['ciritical', 'high', 'moderate', 'low']
+      "level": "critical", 
+      // 漏洞原因（可能为空）
+      "message": "Prototype Pollution in minimist ",
+      // 包名
+      "package": "minimist",
+      // 当前包在 node_modules文件夹下的路径
+      "path": [], 
+      // 漏洞影响版本
+      "range": "<2.0.0", 
+      // 漏洞具体信息参考网址（可能为空）
+      "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h" 
     }]
   }
 ```
+
+## audit range 说明
+
+* range: "<2.0.0" 小于版本号a(不包含版本号a)的包存在漏洞
+* range": "<=2.2.0" 小于等于版本号a的包存在漏洞
+* range: ">2.0.0" 大于版本号a(不包含版本号a)的包存在漏洞
+* range": ">=2.2.0" 大于等于版本号a的包存在漏洞
+* range: "1.7.2 - 1.7.5" 版本号a(包含版本a)至版本号b(包含版本b)的包存在漏洞
+* range: ">=6.0.0 <6.1.2" 大于等于a版本号且小于b版本的包存在漏洞
+* range: "0.3.0 - 1.4.1 || 2.0.0 - 2.0.1" 版本号a(包含版本a)至版本号b(包含版本b) 或 版本号c(包含版本c)至版本号d(包含版本d) 的包存在漏洞
