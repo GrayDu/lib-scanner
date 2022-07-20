@@ -1,9 +1,13 @@
 {
   "name": "lg-scanner",
-  "version": "1.0.0-beta8",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": "./bin/enter",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GrayDu/lib-scanner.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +19,7 @@
     "bin",
     "lib"
   ],
-  "author": "du",
+  "author": "dudu",
   "license": "ISC",
   "dependencies": {
     "@npmcli/arborist": "^5.3.0",

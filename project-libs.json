@@ -1,0 +1,4579 @@
+{
+  "total": [
+    {
+      "name": "@gar/promisify",
+      "version": "1.1.3",
+      "lib": "@gar/promisify@1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "@isaacs/string-locale-compare",
+      "version": "1.1.0",
+      "lib": "@isaacs/string-locale-compare@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/arborist",
+      "version": "5.3.0",
+      "lib": "@npmcli/arborist@5.3.0",
+      "isdev": false
+    },
+    {
+      "name": "@isaacs/string-locale-compare",
+      "version": "^1.1.0",
+      "lib": "@isaacs/string-locale-compare@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/installed-package-contents",
+      "version": "^1.0.7",
+      "lib": "@npmcli/installed-package-contents@^1.0.7",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/map-workspaces",
+      "version": "^2.0.3",
+      "lib": "@npmcli/map-workspaces@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/metavuln-calculator",
+      "version": "^3.0.1",
+      "lib": "@npmcli/metavuln-calculator@^3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/move-file",
+      "version": "^2.0.0",
+      "lib": "@npmcli/move-file@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/name-from-folder",
+      "version": "^1.0.1",
+      "lib": "@npmcli/name-from-folder@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/node-gyp",
+      "version": "^2.0.0",
+      "lib": "@npmcli/node-gyp@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/package-json",
+      "version": "^2.0.0",
+      "lib": "@npmcli/package-json@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "^4.1.3",
+      "lib": "@npmcli/run-script@^4.1.3",
+      "isdev": false
+    },
+    {
+      "name": "bin-links",
+      "version": "^3.0.0",
+      "lib": "bin-links@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.0.6",
+      "lib": "cacache@^16.0.6",
+      "isdev": false
+    },
+    {
+      "name": "common-ancestor-path",
+      "version": "^1.0.1",
+      "lib": "common-ancestor-path@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "^2.3.1",
+      "lib": "json-parse-even-better-errors@^2.3.1",
+      "isdev": false
+    },
+    {
+      "name": "json-stringify-nice",
+      "version": "^1.1.4",
+      "lib": "json-stringify-nice@^1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "^1.0.4",
+      "lib": "mkdirp@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp-infer-owner",
+      "version": "^2.0.0",
+      "lib": "mkdirp-infer-owner@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "nopt",
+      "version": "^5.0.0",
+      "lib": "nopt@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-install-checks",
+      "version": "^5.0.0",
+      "lib": "npm-install-checks@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "^9.0.0",
+      "lib": "npm-package-arg@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-pick-manifest",
+      "version": "^7.0.0",
+      "lib": "npm-pick-manifest@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "^13.0.0",
+      "lib": "npm-registry-fetch@^13.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "^6.0.2",
+      "lib": "npmlog@^6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "^13.6.1",
+      "lib": "pacote@^13.6.1",
+      "isdev": false
+    },
+    {
+      "name": "parse-conflict-json",
+      "version": "^2.0.1",
+      "lib": "parse-conflict-json@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "^2.0.0",
+      "lib": "proc-log@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "promise-all-reject-late",
+      "version": "^1.0.0",
+      "lib": "promise-all-reject-late@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "promise-call-limit",
+      "version": "^1.0.1",
+      "lib": "promise-call-limit@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "^2.0.2",
+      "lib": "read-package-json-fast@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "readdir-scoped-modules",
+      "version": "^1.1.0",
+      "lib": "readdir-scoped-modules@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "^3.0.2",
+      "lib": "rimraf@^3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.3.7",
+      "lib": "semver@^7.3.7",
+      "isdev": false
+    },
+    {
+      "name": "ssri",
+      "version": "^9.0.0",
+      "lib": "ssri@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "treeverse",
+      "version": "^2.0.0",
+      "lib": "treeverse@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "walk-up-path",
+      "version": "^1.0.0",
+      "lib": "walk-up-path@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/fs",
+      "version": "2.1.0",
+      "lib": "@npmcli/fs@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@gar/promisify",
+      "version": "^1.1.3",
+      "lib": "@gar/promisify@^1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.3.5",
+      "lib": "semver@^7.3.5",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/git",
+      "version": "3.0.1",
+      "lib": "@npmcli/git@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/promise-spawn",
+      "version": "^3.0.0",
+      "lib": "@npmcli/promise-spawn@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.4.4",
+      "lib": "lru-cache@^7.4.4",
+      "isdev": false
+    },
+    {
+      "name": "promise-inflight",
+      "version": "^1.0.1",
+      "lib": "promise-inflight@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-retry",
+      "version": "^2.0.1",
+      "lib": "promise-retry@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "which",
+      "version": "^2.0.2",
+      "lib": "which@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/installed-package-contents",
+      "version": "1.0.7",
+      "lib": "@npmcli/installed-package-contents@1.0.7",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "^1.1.1",
+      "lib": "npm-bundled@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "^1.0.1",
+      "lib": "npm-normalize-package-bin@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/map-workspaces",
+      "version": "2.0.3",
+      "lib": "@npmcli/map-workspaces@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^8.0.1",
+      "lib": "glob@^8.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minimatch",
+      "version": "^5.0.1",
+      "lib": "minimatch@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "^2.0.3",
+      "lib": "read-package-json-fast@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/metavuln-calculator",
+      "version": "3.1.1",
+      "lib": "@npmcli/metavuln-calculator@3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.0.0",
+      "lib": "cacache@^16.0.0",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "^13.0.3",
+      "lib": "pacote@^13.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/move-file",
+      "version": "2.0.0",
+      "lib": "@npmcli/move-file@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/name-from-folder",
+      "version": "1.0.1",
+      "lib": "@npmcli/name-from-folder@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/node-gyp",
+      "version": "2.0.0",
+      "lib": "@npmcli/node-gyp@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/package-json",
+      "version": "2.0.0",
+      "lib": "@npmcli/package-json@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/promise-spawn",
+      "version": "3.0.0",
+      "lib": "@npmcli/promise-spawn@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "infer-owner",
+      "version": "^1.0.4",
+      "lib": "infer-owner@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "4.1.7",
+      "lib": "@npmcli/run-script@4.1.7",
+      "isdev": false
+    },
+    {
+      "name": "node-gyp",
+      "version": "^9.0.0",
+      "lib": "node-gyp@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@tootallnate/once",
+      "version": "2.0.0",
+      "lib": "@tootallnate/once@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "abbrev",
+      "version": "1.1.1",
+      "lib": "abbrev@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "6.0.2",
+      "lib": "agent-base@6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "4",
+      "lib": "debug@4",
+      "isdev": false
+    },
+    {
+      "name": "agentkeepalive",
+      "version": "4.2.1",
+      "lib": "agentkeepalive@4.2.1",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "^4.1.0",
+      "lib": "debug@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "depd",
+      "version": "^1.1.2",
+      "lib": "depd@^1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "humanize-ms",
+      "version": "^1.2.1",
+      "lib": "humanize-ms@^1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "aggregate-error",
+      "version": "3.1.0",
+      "lib": "aggregate-error@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "clean-stack",
+      "version": "^2.0.0",
+      "lib": "clean-stack@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "indent-string",
+      "version": "^4.0.0",
+      "lib": "indent-string@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "lib": "ansi-regex@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "ansi-styles",
+      "version": "4.3.0",
+      "lib": "ansi-styles@4.3.0",
+      "isdev": false
+    },
+    {
+      "name": "color-convert",
+      "version": "^2.0.1",
+      "lib": "color-convert@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "aproba",
+      "version": "2.0.0",
+      "lib": "aproba@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "are-we-there-yet",
+      "version": "3.0.0",
+      "lib": "are-we-there-yet@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "delegates",
+      "version": "^1.0.0",
+      "lib": "delegates@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "^3.6.0",
+      "lib": "readable-stream@^3.6.0",
+      "isdev": false
+    },
+    {
+      "name": "asap",
+      "version": "2.0.6",
+      "lib": "asap@2.0.6",
+      "isdev": false
+    },
+    {
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "lib": "balanced-match@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "lib": "base64-js@1.5.1",
+      "isdev": false
+    },
+    {
+      "name": "bin-links",
+      "version": "3.0.1",
+      "lib": "bin-links@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "cmd-shim",
+      "version": "^5.0.0",
+      "lib": "cmd-shim@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "^1.0.0",
+      "lib": "npm-normalize-package-bin@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-cmd-shim",
+      "version": "^3.0.0",
+      "lib": "read-cmd-shim@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "^3.0.0",
+      "lib": "rimraf@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "write-file-atomic",
+      "version": "^4.0.0",
+      "lib": "write-file-atomic@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "bl",
+      "version": "4.1.0",
+      "lib": "bl@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "buffer",
+      "version": "^5.5.0",
+      "lib": "buffer@^5.5.0",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "^2.0.4",
+      "lib": "inherits@^2.0.4",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "^3.4.0",
+      "lib": "readable-stream@^3.4.0",
+      "isdev": false
+    },
+    {
+      "name": "brace-expansion",
+      "version": "2.0.1",
+      "lib": "brace-expansion@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "balanced-match",
+      "version": "^1.0.0",
+      "lib": "balanced-match@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "buffer",
+      "version": "5.7.1",
+      "lib": "buffer@5.7.1",
+      "isdev": false
+    },
+    {
+      "name": "base64-js",
+      "version": "^1.3.1",
+      "lib": "base64-js@^1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "ieee754",
+      "version": "^1.1.13",
+      "lib": "ieee754@^1.1.13",
+      "isdev": false
+    },
+    {
+      "name": "builtins",
+      "version": "5.0.1",
+      "lib": "builtins@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.0.0",
+      "lib": "semver@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "16.1.1",
+      "lib": "cacache@16.1.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/fs",
+      "version": "^2.1.0",
+      "lib": "@npmcli/fs@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chownr",
+      "version": "^2.0.0",
+      "lib": "chownr@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "^2.1.0",
+      "lib": "fs-minipass@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.7.1",
+      "lib": "lru-cache@^7.7.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.1.6",
+      "lib": "minipass@^3.1.6",
+      "isdev": false
+    },
+    {
+      "name": "minipass-collect",
+      "version": "^1.0.2",
+      "lib": "minipass-collect@^1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-flush",
+      "version": "^1.0.5",
+      "lib": "minipass-flush@^1.0.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass-pipeline",
+      "version": "^1.2.4",
+      "lib": "minipass-pipeline@^1.2.4",
+      "isdev": false
+    },
+    {
+      "name": "p-map",
+      "version": "^4.0.0",
+      "lib": "p-map@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "^6.1.11",
+      "lib": "tar@^6.1.11",
+      "isdev": false
+    },
+    {
+      "name": "unique-filename",
+      "version": "^1.1.1",
+      "lib": "unique-filename@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "4.0.0",
+      "lib": "chalk@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ansi-styles",
+      "version": "^4.1.0",
+      "lib": "ansi-styles@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "supports-color",
+      "version": "^7.1.0",
+      "lib": "supports-color@^7.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chownr",
+      "version": "2.0.0",
+      "lib": "chownr@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "clean-stack",
+      "version": "2.2.0",
+      "lib": "clean-stack@2.2.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-cursor",
+      "version": "3.1.0",
+      "lib": "cli-cursor@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "restore-cursor",
+      "version": "^3.1.0",
+      "lib": "restore-cursor@^3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-spinners",
+      "version": "2.6.1",
+      "lib": "cli-spinners@2.6.1",
+      "isdev": false
+    },
+    {
+      "name": "clone",
+      "version": "1.0.4",
+      "lib": "clone@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "cmd-shim",
+      "version": "5.0.0",
+      "lib": "cmd-shim@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "color-convert",
+      "version": "2.0.1",
+      "lib": "color-convert@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "color-name",
+      "version": "~1.1.4",
+      "lib": "color-name@~1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "color-name",
+      "version": "1.1.4",
+      "lib": "color-name@1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "color-support",
+      "version": "1.1.3",
+      "lib": "color-support@1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "commander",
+      "version": "9.3.0",
+      "lib": "commander@9.3.0",
+      "isdev": false
+    },
+    {
+      "name": "common-ancestor-path",
+      "version": "1.0.1",
+      "lib": "common-ancestor-path@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "concat-map",
+      "version": "0.0.1",
+      "lib": "concat-map@0.0.1",
+      "isdev": false
+    },
+    {
+      "name": "console-control-strings",
+      "version": "1.1.0",
+      "lib": "console-control-strings@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "4.3.4",
+      "lib": "debug@4.3.4",
+      "isdev": false
+    },
+    {
+      "name": "ms",
+      "version": "2.1.2",
+      "lib": "ms@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "debuglog",
+      "version": "1.0.1",
+      "lib": "debuglog@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "defaults",
+      "version": "1.0.3",
+      "lib": "defaults@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "clone",
+      "version": "^1.0.2",
+      "lib": "clone@^1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "delegates",
+      "version": "1.0.0",
+      "lib": "delegates@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "depd",
+      "version": "1.1.2",
+      "lib": "depd@1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "dezalgo",
+      "version": "1.0.4",
+      "lib": "dezalgo@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "asap",
+      "version": "^2.0.0",
+      "lib": "asap@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wrappy",
+      "version": "1",
+      "lib": "wrappy@1",
+      "isdev": false
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "lib": "emoji-regex@8.0.0",
+      "isdev": false
+    },
+    {
+      "name": "encoding",
+      "version": "0.1.13",
+      "lib": "encoding@0.1.13",
+      "isdev": false
+    },
+    {
+      "name": "iconv-lite",
+      "version": "^0.6.2",
+      "lib": "iconv-lite@^0.6.2",
+      "isdev": false
+    },
+    {
+      "name": "env-paths",
+      "version": "2.2.1",
+      "lib": "env-paths@2.2.1",
+      "isdev": false
+    },
+    {
+      "name": "err-code",
+      "version": "2.0.3",
+      "lib": "err-code@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "fs-extra",
+      "version": "10.1.0",
+      "lib": "fs-extra@10.1.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.2.0",
+      "lib": "graceful-fs@^4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "jsonfile",
+      "version": "^6.0.1",
+      "lib": "jsonfile@^6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "universalify",
+      "version": "^2.0.0",
+      "lib": "universalify@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "2.1.0",
+      "lib": "fs-minipass@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.0.0",
+      "lib": "minipass@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs.realpath",
+      "version": "1.0.0",
+      "lib": "fs.realpath@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "function-bind",
+      "version": "1.1.1",
+      "lib": "function-bind@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "gauge",
+      "version": "4.0.4",
+      "lib": "gauge@4.0.4",
+      "isdev": false
+    },
+    {
+      "name": "aproba",
+      "version": "^1.0.3 || ^2.0.0",
+      "lib": "aproba@^1.0.3 || ^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "color-support",
+      "version": "^1.1.3",
+      "lib": "color-support@^1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "console-control-strings",
+      "version": "^1.1.0",
+      "lib": "console-control-strings@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "has-unicode",
+      "version": "^2.0.1",
+      "lib": "has-unicode@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "^3.0.7",
+      "lib": "signal-exit@^3.0.7",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "^4.2.3",
+      "lib": "string-width@^4.2.3",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "^6.0.1",
+      "lib": "strip-ansi@^6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "wide-align",
+      "version": "^1.1.5",
+      "lib": "wide-align@^1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "8.0.3",
+      "lib": "glob@8.0.3",
+      "isdev": false
+    },
+    {
+      "name": "fs.realpath",
+      "version": "^1.0.0",
+      "lib": "fs.realpath@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "inflight",
+      "version": "^1.0.4",
+      "lib": "inflight@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "2",
+      "lib": "inherits@2",
+      "isdev": false
+    },
+    {
+      "name": "once",
+      "version": "^1.3.0",
+      "lib": "once@^1.3.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "4.2.10",
+      "lib": "graceful-fs@4.2.10",
+      "isdev": false
+    },
+    {
+      "name": "has",
+      "version": "1.0.3",
+      "lib": "has@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "function-bind",
+      "version": "^1.1.1",
+      "lib": "function-bind@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "has-flag",
+      "version": "4.0.0",
+      "lib": "has-flag@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "has-unicode",
+      "version": "2.0.1",
+      "lib": "has-unicode@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "hosted-git-info",
+      "version": "5.0.0",
+      "lib": "hosted-git-info@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.5.1",
+      "lib": "lru-cache@^7.5.1",
+      "isdev": false
+    },
+    {
+      "name": "http-cache-semantics",
+      "version": "4.1.0",
+      "lib": "http-cache-semantics@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "5.0.0",
+      "lib": "http-proxy-agent@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@tootallnate/once",
+      "version": "2",
+      "lib": "@tootallnate/once@2",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "6",
+      "lib": "agent-base@6",
+      "isdev": false
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "5.0.1",
+      "lib": "https-proxy-agent@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "humanize-ms",
+      "version": "1.2.1",
+      "lib": "humanize-ms@1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "ms",
+      "version": "^2.0.0",
+      "lib": "ms@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "iconv-lite",
+      "version": "0.6.3",
+      "lib": "iconv-lite@0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "safer-buffer",
+      "version": ">= 2.1.2 < 3.0.0",
+      "lib": "safer-buffer@>= 2.1.2 < 3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "lib": "ieee754@1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "ignore-walk",
+      "version": "5.0.1",
+      "lib": "ignore-walk@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "imurmurhash",
+      "version": "0.1.4",
+      "lib": "imurmurhash@0.1.4",
+      "isdev": false
+    },
+    {
+      "name": "indent-string",
+      "version": "4.0.0",
+      "lib": "indent-string@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "infer-owner",
+      "version": "1.0.4",
+      "lib": "infer-owner@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "inflight",
+      "version": "1.0.6",
+      "lib": "inflight@1.0.6",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4",
+      "lib": "inherits@2.0.4",
+      "isdev": false
+    },
+    {
+      "name": "ip",
+      "version": "1.1.8",
+      "lib": "ip@1.1.8",
+      "isdev": false
+    },
+    {
+      "name": "is-core-module",
+      "version": "2.9.0",
+      "lib": "is-core-module@2.9.0",
+      "isdev": false
+    },
+    {
+      "name": "has",
+      "version": "^1.0.3",
+      "lib": "has@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "lib": "is-fullwidth-code-point@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-interactive",
+      "version": "1.0.0",
+      "lib": "is-interactive@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-lambda",
+      "version": "1.0.1",
+      "lib": "is-lambda@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "is-unicode-supported",
+      "version": "0.1.0",
+      "lib": "is-unicode-supported@0.1.0",
+      "isdev": false
+    },
+    {
+      "name": "isexe",
+      "version": "2.0.0",
+      "lib": "isexe@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "2.3.1",
+      "lib": "json-parse-even-better-errors@2.3.1",
+      "isdev": false
+    },
+    {
+      "name": "json-stringify-nice",
+      "version": "1.1.4",
+      "lib": "json-stringify-nice@1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "jsonfile",
+      "version": "6.1.0",
+      "lib": "jsonfile@6.1.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.1.6",
+      "lib": "graceful-fs@^4.1.6",
+      "isdev": false
+    },
+    {
+      "name": "jsonparse",
+      "version": "1.3.1",
+      "lib": "jsonparse@1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "just-diff",
+      "version": "5.0.3",
+      "lib": "just-diff@5.0.3",
+      "isdev": false
+    },
+    {
+      "name": "just-diff-apply",
+      "version": "5.3.1",
+      "lib": "just-diff-apply@5.3.1",
+      "isdev": false
+    },
+    {
+      "name": "log-symbols",
+      "version": "4.1.0",
+      "lib": "log-symbols@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "^4.1.0",
+      "lib": "chalk@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "is-unicode-supported",
+      "version": "^0.1.0",
+      "lib": "is-unicode-supported@^0.1.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "7.13.0",
+      "lib": "lru-cache@7.13.0",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "10.1.8",
+      "lib": "make-fetch-happen@10.1.8",
+      "isdev": false
+    },
+    {
+      "name": "agentkeepalive",
+      "version": "^4.2.1",
+      "lib": "agentkeepalive@^4.2.1",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.1.0",
+      "lib": "cacache@^16.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-cache-semantics",
+      "version": "^4.1.0",
+      "lib": "http-cache-semantics@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "^5.0.0",
+      "lib": "http-proxy-agent@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "^5.0.0",
+      "lib": "https-proxy-agent@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-lambda",
+      "version": "^1.0.1",
+      "lib": "is-lambda@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass-fetch",
+      "version": "^2.0.3",
+      "lib": "minipass-fetch@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "negotiator",
+      "version": "^0.6.3",
+      "lib": "negotiator@^0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "socks-proxy-agent",
+      "version": "^7.0.0",
+      "lib": "socks-proxy-agent@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "mimic-fn",
+      "version": "2.1.0",
+      "lib": "mimic-fn@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "minimatch",
+      "version": "5.1.0",
+      "lib": "minimatch@5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "brace-expansion",
+      "version": "^2.0.1",
+      "lib": "brace-expansion@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minimist",
+      "version": "1.2.5",
+      "lib": "minimist@1.2.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "3.3.4",
+      "lib": "minipass@3.3.4",
+      "isdev": false
+    },
+    {
+      "name": "yallist",
+      "version": "^4.0.0",
+      "lib": "yallist@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "minipass-collect",
+      "version": "1.0.2",
+      "lib": "minipass-collect@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-fetch",
+      "version": "2.1.0",
+      "lib": "minipass-fetch@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "encoding",
+      "version": "^0.1.13",
+      "lib": "encoding@^0.1.13",
+      "isdev": false
+    },
+    {
+      "name": "minipass-sized",
+      "version": "^1.0.3",
+      "lib": "minipass-sized@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "^2.1.2",
+      "lib": "minizlib@^2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-flush",
+      "version": "1.0.5",
+      "lib": "minipass-flush@1.0.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass-json-stream",
+      "version": "1.0.1",
+      "lib": "minipass-json-stream@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "jsonparse",
+      "version": "^1.3.1",
+      "lib": "jsonparse@^1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass-pipeline",
+      "version": "1.2.4",
+      "lib": "minipass-pipeline@1.2.4",
+      "isdev": false
+    },
+    {
+      "name": "minipass-sized",
+      "version": "1.0.3",
+      "lib": "minipass-sized@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "2.1.2",
+      "lib": "minizlib@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "1.0.4",
+      "lib": "mkdirp@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp-infer-owner",
+      "version": "2.0.0",
+      "lib": "mkdirp-infer-owner@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "^1.0.3",
+      "lib": "mkdirp@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "negotiator",
+      "version": "0.6.3",
+      "lib": "negotiator@0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "node-gyp",
+      "version": "9.1.0",
+      "lib": "node-gyp@9.1.0",
+      "isdev": false
+    },
+    {
+      "name": "env-paths",
+      "version": "^2.2.0",
+      "lib": "env-paths@^2.2.0",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^7.1.4",
+      "lib": "glob@^7.1.4",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.2.6",
+      "lib": "graceful-fs@^4.2.6",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "^10.0.3",
+      "lib": "make-fetch-happen@^10.0.3",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "^6.0.0",
+      "lib": "npmlog@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "^6.1.2",
+      "lib": "tar@^6.1.2",
+      "isdev": false
+    },
+    {
+      "name": "nopt",
+      "version": "5.0.0",
+      "lib": "nopt@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "abbrev",
+      "version": "1",
+      "lib": "abbrev@1",
+      "isdev": false
+    },
+    {
+      "name": "normalize-package-data",
+      "version": "4.0.0",
+      "lib": "normalize-package-data@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "hosted-git-info",
+      "version": "^5.0.0",
+      "lib": "hosted-git-info@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-core-module",
+      "version": "^2.8.1",
+      "lib": "is-core-module@^2.8.1",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-license",
+      "version": "^3.0.4",
+      "lib": "validate-npm-package-license@^3.0.4",
+      "isdev": false
+    },
+    {
+      "name": "npm-audit-report",
+      "version": "3.0.0",
+      "lib": "npm-audit-report@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "^4.0.0",
+      "lib": "chalk@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "1.1.2",
+      "lib": "npm-bundled@1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "npm-install-checks",
+      "version": "5.0.0",
+      "lib": "npm-install-checks@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.1.1",
+      "lib": "semver@^7.1.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "1.0.1",
+      "lib": "npm-normalize-package-bin@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "9.1.0",
+      "lib": "npm-package-arg@9.1.0",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "^2.0.1",
+      "lib": "proc-log@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-name",
+      "version": "^4.0.0",
+      "lib": "validate-npm-package-name@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-packlist",
+      "version": "5.1.1",
+      "lib": "npm-packlist@5.1.1",
+      "isdev": false
+    },
+    {
+      "name": "ignore-walk",
+      "version": "^5.0.1",
+      "lib": "ignore-walk@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "^1.1.2",
+      "lib": "npm-bundled@^1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "npm-pick-manifest",
+      "version": "7.0.1",
+      "lib": "npm-pick-manifest@7.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "13.2.0",
+      "lib": "npm-registry-fetch@13.2.0",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "^10.0.6",
+      "lib": "make-fetch-happen@^10.0.6",
+      "isdev": false
+    },
+    {
+      "name": "minipass-json-stream",
+      "version": "^1.0.1",
+      "lib": "minipass-json-stream@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "^9.0.1",
+      "lib": "npm-package-arg@^9.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "6.0.2",
+      "lib": "npmlog@6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "are-we-there-yet",
+      "version": "^3.0.0",
+      "lib": "are-we-there-yet@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "gauge",
+      "version": "^4.0.3",
+      "lib": "gauge@^4.0.3",
+      "isdev": false
+    },
+    {
+      "name": "set-blocking",
+      "version": "^2.0.0",
+      "lib": "set-blocking@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "once",
+      "version": "1.4.0",
+      "lib": "once@1.4.0",
+      "isdev": false
+    },
+    {
+      "name": "onetime",
+      "version": "5.1.2",
+      "lib": "onetime@5.1.2",
+      "isdev": false
+    },
+    {
+      "name": "mimic-fn",
+      "version": "^2.1.0",
+      "lib": "mimic-fn@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "ora",
+      "version": "5.4.1",
+      "lib": "ora@5.4.1",
+      "isdev": false
+    },
+    {
+      "name": "bl",
+      "version": "^4.1.0",
+      "lib": "bl@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-cursor",
+      "version": "^3.1.0",
+      "lib": "cli-cursor@^3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-spinners",
+      "version": "^2.5.0",
+      "lib": "cli-spinners@^2.5.0",
+      "isdev": false
+    },
+    {
+      "name": "is-interactive",
+      "version": "^1.0.0",
+      "lib": "is-interactive@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "log-symbols",
+      "version": "^4.1.0",
+      "lib": "log-symbols@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "^6.0.0",
+      "lib": "strip-ansi@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wcwidth",
+      "version": "^1.0.1",
+      "lib": "wcwidth@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "p-map",
+      "version": "4.0.0",
+      "lib": "p-map@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "aggregate-error",
+      "version": "^3.0.0",
+      "lib": "aggregate-error@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "13.6.1",
+      "lib": "pacote@13.6.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/git",
+      "version": "^3.0.0",
+      "lib": "@npmcli/git@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "^4.1.0",
+      "lib": "@npmcli/run-script@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-packlist",
+      "version": "^5.1.0",
+      "lib": "npm-packlist@^5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "^13.0.1",
+      "lib": "npm-registry-fetch@^13.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json",
+      "version": "^5.0.0",
+      "lib": "read-package-json@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "parse-conflict-json",
+      "version": "2.0.2",
+      "lib": "parse-conflict-json@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "just-diff",
+      "version": "^5.0.1",
+      "lib": "just-diff@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "just-diff-apply",
+      "version": "^5.2.0",
+      "lib": "just-diff-apply@^5.2.0",
+      "isdev": false
+    },
+    {
+      "name": "path-is-absolute",
+      "version": "1.0.1",
+      "lib": "path-is-absolute@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "2.0.1",
+      "lib": "proc-log@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-all-reject-late",
+      "version": "1.0.1",
+      "lib": "promise-all-reject-late@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-call-limit",
+      "version": "1.0.1",
+      "lib": "promise-call-limit@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-inflight",
+      "version": "1.0.1",
+      "lib": "promise-inflight@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-retry",
+      "version": "2.0.1",
+      "lib": "promise-retry@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "err-code",
+      "version": "^2.0.2",
+      "lib": "err-code@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "retry",
+      "version": "^0.12.0",
+      "lib": "retry@^0.12.0",
+      "isdev": false
+    },
+    {
+      "name": "read-cmd-shim",
+      "version": "3.0.0",
+      "lib": "read-cmd-shim@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json",
+      "version": "5.0.1",
+      "lib": "read-package-json@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "normalize-package-data",
+      "version": "^4.0.0",
+      "lib": "normalize-package-data@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "2.0.3",
+      "lib": "read-package-json-fast@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "^2.3.0",
+      "lib": "json-parse-even-better-errors@^2.3.0",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "3.6.0",
+      "lib": "readable-stream@3.6.0",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "^2.0.3",
+      "lib": "inherits@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "string_decoder",
+      "version": "^1.1.1",
+      "lib": "string_decoder@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "util-deprecate",
+      "version": "^1.0.1",
+      "lib": "util-deprecate@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "readdir-scoped-modules",
+      "version": "1.1.0",
+      "lib": "readdir-scoped-modules@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "debuglog",
+      "version": "^1.0.1",
+      "lib": "debuglog@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "dezalgo",
+      "version": "^1.0.0",
+      "lib": "dezalgo@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.1.2",
+      "lib": "graceful-fs@^4.1.2",
+      "isdev": false
+    },
+    {
+      "name": "restore-cursor",
+      "version": "3.1.0",
+      "lib": "restore-cursor@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "onetime",
+      "version": "^5.1.0",
+      "lib": "onetime@^5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "^3.0.2",
+      "lib": "signal-exit@^3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "retry",
+      "version": "0.12.0",
+      "lib": "retry@0.12.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "3.0.2",
+      "lib": "rimraf@3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^7.1.3",
+      "lib": "glob@^7.1.3",
+      "isdev": false
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.2.1",
+      "lib": "safe-buffer@5.2.1",
+      "isdev": false
+    },
+    {
+      "name": "safer-buffer",
+      "version": "2.1.2",
+      "lib": "safer-buffer@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "7.3.7",
+      "lib": "semver@7.3.7",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^6.0.0",
+      "lib": "lru-cache@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "set-blocking",
+      "version": "2.0.0",
+      "lib": "set-blocking@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "3.0.7",
+      "lib": "signal-exit@3.0.7",
+      "isdev": false
+    },
+    {
+      "name": "smart-buffer",
+      "version": "4.2.0",
+      "lib": "smart-buffer@4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "socks",
+      "version": "2.6.2",
+      "lib": "socks@2.6.2",
+      "isdev": false
+    },
+    {
+      "name": "ip",
+      "version": "^1.1.5",
+      "lib": "ip@^1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "smart-buffer",
+      "version": "^4.2.0",
+      "lib": "smart-buffer@^4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "socks-proxy-agent",
+      "version": "7.0.0",
+      "lib": "socks-proxy-agent@7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "^6.0.2",
+      "lib": "agent-base@^6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "^4.3.3",
+      "lib": "debug@^4.3.3",
+      "isdev": false
+    },
+    {
+      "name": "socks",
+      "version": "^2.6.2",
+      "lib": "socks@^2.6.2",
+      "isdev": false
+    },
+    {
+      "name": "spdx-correct",
+      "version": "3.1.1",
+      "lib": "spdx-correct@3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "spdx-expression-parse",
+      "version": "^3.0.0",
+      "lib": "spdx-expression-parse@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-license-ids",
+      "version": "^3.0.0",
+      "lib": "spdx-license-ids@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "2.3.0",
+      "lib": "spdx-exceptions@2.3.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-expression-parse",
+      "version": "3.0.1",
+      "lib": "spdx-expression-parse@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "^2.1.0",
+      "lib": "spdx-exceptions@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-license-ids",
+      "version": "3.0.11",
+      "lib": "spdx-license-ids@3.0.11",
+      "isdev": false
+    },
+    {
+      "name": "ssri",
+      "version": "9.0.1",
+      "lib": "ssri@9.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.1.1",
+      "lib": "minipass@^3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "lib": "string-width@4.2.3",
+      "isdev": false
+    },
+    {
+      "name": "emoji-regex",
+      "version": "^8.0.0",
+      "lib": "emoji-regex@^8.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "^3.0.0",
+      "lib": "is-fullwidth-code-point@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.3.0",
+      "lib": "string_decoder@1.3.0",
+      "isdev": false
+    },
+    {
+      "name": "safe-buffer",
+      "version": "~5.2.0",
+      "lib": "safe-buffer@~5.2.0",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "lib": "strip-ansi@6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "ansi-regex",
+      "version": "^5.0.1",
+      "lib": "ansi-regex@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "supports-color",
+      "version": "7.2.0",
+      "lib": "supports-color@7.2.0",
+      "isdev": false
+    },
+    {
+      "name": "has-flag",
+      "version": "^4.0.0",
+      "lib": "has-flag@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "6.1.11",
+      "lib": "tar@6.1.11",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "^2.0.0",
+      "lib": "fs-minipass@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "^2.1.1",
+      "lib": "minizlib@^2.1.1",
+      "isdev": false
+    },
+    {
+      "name": "treeverse",
+      "version": "2.0.0",
+      "lib": "treeverse@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "unique-filename",
+      "version": "1.1.1",
+      "lib": "unique-filename@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "unique-slug",
+      "version": "^2.0.0",
+      "lib": "unique-slug@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "unique-slug",
+      "version": "2.0.2",
+      "lib": "unique-slug@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "imurmurhash",
+      "version": "^0.1.4",
+      "lib": "imurmurhash@^0.1.4",
+      "isdev": false
+    },
+    {
+      "name": "universalify",
+      "version": "2.0.0",
+      "lib": "universalify@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "lib": "util-deprecate@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-license",
+      "version": "3.0.4",
+      "lib": "validate-npm-package-license@3.0.4",
+      "isdev": false
+    },
+    {
+      "name": "spdx-correct",
+      "version": "^3.0.0",
+      "lib": "spdx-correct@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-name",
+      "version": "4.0.0",
+      "lib": "validate-npm-package-name@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "builtins",
+      "version": "^5.0.0",
+      "lib": "builtins@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "walk-up-path",
+      "version": "1.0.0",
+      "lib": "walk-up-path@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wcwidth",
+      "version": "1.0.1",
+      "lib": "wcwidth@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "defaults",
+      "version": "^1.0.3",
+      "lib": "defaults@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "which",
+      "version": "2.0.2",
+      "lib": "which@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "isexe",
+      "version": "^2.0.0",
+      "lib": "isexe@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wide-align",
+      "version": "1.1.5",
+      "lib": "wide-align@1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "^1.0.2 || 2 || 3 || 4",
+      "lib": "string-width@^1.0.2 || 2 || 3 || 4",
+      "isdev": false
+    },
+    {
+      "name": "wrappy",
+      "version": "1.0.2",
+      "lib": "wrappy@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "write-file-atomic",
+      "version": "4.0.1",
+      "lib": "write-file-atomic@4.0.1",
+      "isdev": false
+    },
+    {
+      "name": "yallist",
+      "version": "4.0.0",
+      "lib": "yallist@4.0.0",
+      "isdev": false
+    }
+  ],
+  "dev": [],
+  "pro": [
+    {
+      "name": "@gar/promisify",
+      "version": "1.1.3",
+      "lib": "@gar/promisify@1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "@isaacs/string-locale-compare",
+      "version": "1.1.0",
+      "lib": "@isaacs/string-locale-compare@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/arborist",
+      "version": "5.3.0",
+      "lib": "@npmcli/arborist@5.3.0",
+      "isdev": false
+    },
+    {
+      "name": "@isaacs/string-locale-compare",
+      "version": "^1.1.0",
+      "lib": "@isaacs/string-locale-compare@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/installed-package-contents",
+      "version": "^1.0.7",
+      "lib": "@npmcli/installed-package-contents@^1.0.7",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/map-workspaces",
+      "version": "^2.0.3",
+      "lib": "@npmcli/map-workspaces@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/metavuln-calculator",
+      "version": "^3.0.1",
+      "lib": "@npmcli/metavuln-calculator@^3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/move-file",
+      "version": "^2.0.0",
+      "lib": "@npmcli/move-file@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/name-from-folder",
+      "version": "^1.0.1",
+      "lib": "@npmcli/name-from-folder@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/node-gyp",
+      "version": "^2.0.0",
+      "lib": "@npmcli/node-gyp@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/package-json",
+      "version": "^2.0.0",
+      "lib": "@npmcli/package-json@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "^4.1.3",
+      "lib": "@npmcli/run-script@^4.1.3",
+      "isdev": false
+    },
+    {
+      "name": "bin-links",
+      "version": "^3.0.0",
+      "lib": "bin-links@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.0.6",
+      "lib": "cacache@^16.0.6",
+      "isdev": false
+    },
+    {
+      "name": "common-ancestor-path",
+      "version": "^1.0.1",
+      "lib": "common-ancestor-path@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "^2.3.1",
+      "lib": "json-parse-even-better-errors@^2.3.1",
+      "isdev": false
+    },
+    {
+      "name": "json-stringify-nice",
+      "version": "^1.1.4",
+      "lib": "json-stringify-nice@^1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "^1.0.4",
+      "lib": "mkdirp@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp-infer-owner",
+      "version": "^2.0.0",
+      "lib": "mkdirp-infer-owner@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "nopt",
+      "version": "^5.0.0",
+      "lib": "nopt@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-install-checks",
+      "version": "^5.0.0",
+      "lib": "npm-install-checks@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "^9.0.0",
+      "lib": "npm-package-arg@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-pick-manifest",
+      "version": "^7.0.0",
+      "lib": "npm-pick-manifest@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "^13.0.0",
+      "lib": "npm-registry-fetch@^13.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "^6.0.2",
+      "lib": "npmlog@^6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "^13.6.1",
+      "lib": "pacote@^13.6.1",
+      "isdev": false
+    },
+    {
+      "name": "parse-conflict-json",
+      "version": "^2.0.1",
+      "lib": "parse-conflict-json@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "^2.0.0",
+      "lib": "proc-log@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "promise-all-reject-late",
+      "version": "^1.0.0",
+      "lib": "promise-all-reject-late@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "promise-call-limit",
+      "version": "^1.0.1",
+      "lib": "promise-call-limit@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "^2.0.2",
+      "lib": "read-package-json-fast@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "readdir-scoped-modules",
+      "version": "^1.1.0",
+      "lib": "readdir-scoped-modules@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "^3.0.2",
+      "lib": "rimraf@^3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.3.7",
+      "lib": "semver@^7.3.7",
+      "isdev": false
+    },
+    {
+      "name": "ssri",
+      "version": "^9.0.0",
+      "lib": "ssri@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "treeverse",
+      "version": "^2.0.0",
+      "lib": "treeverse@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "walk-up-path",
+      "version": "^1.0.0",
+      "lib": "walk-up-path@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/fs",
+      "version": "2.1.0",
+      "lib": "@npmcli/fs@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "@gar/promisify",
+      "version": "^1.1.3",
+      "lib": "@gar/promisify@^1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.3.5",
+      "lib": "semver@^7.3.5",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/git",
+      "version": "3.0.1",
+      "lib": "@npmcli/git@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/promise-spawn",
+      "version": "^3.0.0",
+      "lib": "@npmcli/promise-spawn@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.4.4",
+      "lib": "lru-cache@^7.4.4",
+      "isdev": false
+    },
+    {
+      "name": "promise-inflight",
+      "version": "^1.0.1",
+      "lib": "promise-inflight@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-retry",
+      "version": "^2.0.1",
+      "lib": "promise-retry@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "which",
+      "version": "^2.0.2",
+      "lib": "which@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/installed-package-contents",
+      "version": "1.0.7",
+      "lib": "@npmcli/installed-package-contents@1.0.7",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "^1.1.1",
+      "lib": "npm-bundled@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "^1.0.1",
+      "lib": "npm-normalize-package-bin@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/map-workspaces",
+      "version": "2.0.3",
+      "lib": "@npmcli/map-workspaces@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^8.0.1",
+      "lib": "glob@^8.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minimatch",
+      "version": "^5.0.1",
+      "lib": "minimatch@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "^2.0.3",
+      "lib": "read-package-json-fast@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/metavuln-calculator",
+      "version": "3.1.1",
+      "lib": "@npmcli/metavuln-calculator@3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.0.0",
+      "lib": "cacache@^16.0.0",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "^13.0.3",
+      "lib": "pacote@^13.0.3",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/move-file",
+      "version": "2.0.0",
+      "lib": "@npmcli/move-file@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/name-from-folder",
+      "version": "1.0.1",
+      "lib": "@npmcli/name-from-folder@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/node-gyp",
+      "version": "2.0.0",
+      "lib": "@npmcli/node-gyp@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/package-json",
+      "version": "2.0.0",
+      "lib": "@npmcli/package-json@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/promise-spawn",
+      "version": "3.0.0",
+      "lib": "@npmcli/promise-spawn@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "infer-owner",
+      "version": "^1.0.4",
+      "lib": "infer-owner@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "4.1.7",
+      "lib": "@npmcli/run-script@4.1.7",
+      "isdev": false
+    },
+    {
+      "name": "node-gyp",
+      "version": "^9.0.0",
+      "lib": "node-gyp@^9.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@tootallnate/once",
+      "version": "2.0.0",
+      "lib": "@tootallnate/once@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "abbrev",
+      "version": "1.1.1",
+      "lib": "abbrev@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "6.0.2",
+      "lib": "agent-base@6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "4",
+      "lib": "debug@4",
+      "isdev": false
+    },
+    {
+      "name": "agentkeepalive",
+      "version": "4.2.1",
+      "lib": "agentkeepalive@4.2.1",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "^4.1.0",
+      "lib": "debug@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "depd",
+      "version": "^1.1.2",
+      "lib": "depd@^1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "humanize-ms",
+      "version": "^1.2.1",
+      "lib": "humanize-ms@^1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "aggregate-error",
+      "version": "3.1.0",
+      "lib": "aggregate-error@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "clean-stack",
+      "version": "^2.0.0",
+      "lib": "clean-stack@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "indent-string",
+      "version": "^4.0.0",
+      "lib": "indent-string@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "lib": "ansi-regex@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "ansi-styles",
+      "version": "4.3.0",
+      "lib": "ansi-styles@4.3.0",
+      "isdev": false
+    },
+    {
+      "name": "color-convert",
+      "version": "^2.0.1",
+      "lib": "color-convert@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "aproba",
+      "version": "2.0.0",
+      "lib": "aproba@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "are-we-there-yet",
+      "version": "3.0.0",
+      "lib": "are-we-there-yet@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "delegates",
+      "version": "^1.0.0",
+      "lib": "delegates@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "^3.6.0",
+      "lib": "readable-stream@^3.6.0",
+      "isdev": false
+    },
+    {
+      "name": "asap",
+      "version": "2.0.6",
+      "lib": "asap@2.0.6",
+      "isdev": false
+    },
+    {
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "lib": "balanced-match@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "base64-js",
+      "version": "1.5.1",
+      "lib": "base64-js@1.5.1",
+      "isdev": false
+    },
+    {
+      "name": "bin-links",
+      "version": "3.0.1",
+      "lib": "bin-links@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "cmd-shim",
+      "version": "^5.0.0",
+      "lib": "cmd-shim@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "^1.0.0",
+      "lib": "npm-normalize-package-bin@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-cmd-shim",
+      "version": "^3.0.0",
+      "lib": "read-cmd-shim@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "^3.0.0",
+      "lib": "rimraf@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "write-file-atomic",
+      "version": "^4.0.0",
+      "lib": "write-file-atomic@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "bl",
+      "version": "4.1.0",
+      "lib": "bl@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "buffer",
+      "version": "^5.5.0",
+      "lib": "buffer@^5.5.0",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "^2.0.4",
+      "lib": "inherits@^2.0.4",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "^3.4.0",
+      "lib": "readable-stream@^3.4.0",
+      "isdev": false
+    },
+    {
+      "name": "brace-expansion",
+      "version": "2.0.1",
+      "lib": "brace-expansion@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "balanced-match",
+      "version": "^1.0.0",
+      "lib": "balanced-match@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "buffer",
+      "version": "5.7.1",
+      "lib": "buffer@5.7.1",
+      "isdev": false
+    },
+    {
+      "name": "base64-js",
+      "version": "^1.3.1",
+      "lib": "base64-js@^1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "ieee754",
+      "version": "^1.1.13",
+      "lib": "ieee754@^1.1.13",
+      "isdev": false
+    },
+    {
+      "name": "builtins",
+      "version": "5.0.1",
+      "lib": "builtins@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.0.0",
+      "lib": "semver@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "16.1.1",
+      "lib": "cacache@16.1.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/fs",
+      "version": "^2.1.0",
+      "lib": "@npmcli/fs@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chownr",
+      "version": "^2.0.0",
+      "lib": "chownr@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "^2.1.0",
+      "lib": "fs-minipass@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.7.1",
+      "lib": "lru-cache@^7.7.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.1.6",
+      "lib": "minipass@^3.1.6",
+      "isdev": false
+    },
+    {
+      "name": "minipass-collect",
+      "version": "^1.0.2",
+      "lib": "minipass-collect@^1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-flush",
+      "version": "^1.0.5",
+      "lib": "minipass-flush@^1.0.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass-pipeline",
+      "version": "^1.2.4",
+      "lib": "minipass-pipeline@^1.2.4",
+      "isdev": false
+    },
+    {
+      "name": "p-map",
+      "version": "^4.0.0",
+      "lib": "p-map@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "^6.1.11",
+      "lib": "tar@^6.1.11",
+      "isdev": false
+    },
+    {
+      "name": "unique-filename",
+      "version": "^1.1.1",
+      "lib": "unique-filename@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "4.0.0",
+      "lib": "chalk@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ansi-styles",
+      "version": "^4.1.0",
+      "lib": "ansi-styles@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "supports-color",
+      "version": "^7.1.0",
+      "lib": "supports-color@^7.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chownr",
+      "version": "2.0.0",
+      "lib": "chownr@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "clean-stack",
+      "version": "2.2.0",
+      "lib": "clean-stack@2.2.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-cursor",
+      "version": "3.1.0",
+      "lib": "cli-cursor@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "restore-cursor",
+      "version": "^3.1.0",
+      "lib": "restore-cursor@^3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-spinners",
+      "version": "2.6.1",
+      "lib": "cli-spinners@2.6.1",
+      "isdev": false
+    },
+    {
+      "name": "clone",
+      "version": "1.0.4",
+      "lib": "clone@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "cmd-shim",
+      "version": "5.0.0",
+      "lib": "cmd-shim@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "color-convert",
+      "version": "2.0.1",
+      "lib": "color-convert@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "color-name",
+      "version": "~1.1.4",
+      "lib": "color-name@~1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "color-name",
+      "version": "1.1.4",
+      "lib": "color-name@1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "color-support",
+      "version": "1.1.3",
+      "lib": "color-support@1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "commander",
+      "version": "9.3.0",
+      "lib": "commander@9.3.0",
+      "isdev": false
+    },
+    {
+      "name": "common-ancestor-path",
+      "version": "1.0.1",
+      "lib": "common-ancestor-path@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "concat-map",
+      "version": "0.0.1",
+      "lib": "concat-map@0.0.1",
+      "isdev": false
+    },
+    {
+      "name": "console-control-strings",
+      "version": "1.1.0",
+      "lib": "console-control-strings@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "4.3.4",
+      "lib": "debug@4.3.4",
+      "isdev": false
+    },
+    {
+      "name": "ms",
+      "version": "2.1.2",
+      "lib": "ms@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "debuglog",
+      "version": "1.0.1",
+      "lib": "debuglog@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "defaults",
+      "version": "1.0.3",
+      "lib": "defaults@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "clone",
+      "version": "^1.0.2",
+      "lib": "clone@^1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "delegates",
+      "version": "1.0.0",
+      "lib": "delegates@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "depd",
+      "version": "1.1.2",
+      "lib": "depd@1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "dezalgo",
+      "version": "1.0.4",
+      "lib": "dezalgo@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "asap",
+      "version": "^2.0.0",
+      "lib": "asap@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wrappy",
+      "version": "1",
+      "lib": "wrappy@1",
+      "isdev": false
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "lib": "emoji-regex@8.0.0",
+      "isdev": false
+    },
+    {
+      "name": "encoding",
+      "version": "0.1.13",
+      "lib": "encoding@0.1.13",
+      "isdev": false
+    },
+    {
+      "name": "iconv-lite",
+      "version": "^0.6.2",
+      "lib": "iconv-lite@^0.6.2",
+      "isdev": false
+    },
+    {
+      "name": "env-paths",
+      "version": "2.2.1",
+      "lib": "env-paths@2.2.1",
+      "isdev": false
+    },
+    {
+      "name": "err-code",
+      "version": "2.0.3",
+      "lib": "err-code@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "fs-extra",
+      "version": "10.1.0",
+      "lib": "fs-extra@10.1.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.2.0",
+      "lib": "graceful-fs@^4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "jsonfile",
+      "version": "^6.0.1",
+      "lib": "jsonfile@^6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "universalify",
+      "version": "^2.0.0",
+      "lib": "universalify@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "2.1.0",
+      "lib": "fs-minipass@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.0.0",
+      "lib": "minipass@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "fs.realpath",
+      "version": "1.0.0",
+      "lib": "fs.realpath@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "function-bind",
+      "version": "1.1.1",
+      "lib": "function-bind@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "gauge",
+      "version": "4.0.4",
+      "lib": "gauge@4.0.4",
+      "isdev": false
+    },
+    {
+      "name": "aproba",
+      "version": "^1.0.3 || ^2.0.0",
+      "lib": "aproba@^1.0.3 || ^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "color-support",
+      "version": "^1.1.3",
+      "lib": "color-support@^1.1.3",
+      "isdev": false
+    },
+    {
+      "name": "console-control-strings",
+      "version": "^1.1.0",
+      "lib": "console-control-strings@^1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "has-unicode",
+      "version": "^2.0.1",
+      "lib": "has-unicode@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "^3.0.7",
+      "lib": "signal-exit@^3.0.7",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "^4.2.3",
+      "lib": "string-width@^4.2.3",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "^6.0.1",
+      "lib": "strip-ansi@^6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "wide-align",
+      "version": "^1.1.5",
+      "lib": "wide-align@^1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "8.0.3",
+      "lib": "glob@8.0.3",
+      "isdev": false
+    },
+    {
+      "name": "fs.realpath",
+      "version": "^1.0.0",
+      "lib": "fs.realpath@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "inflight",
+      "version": "^1.0.4",
+      "lib": "inflight@^1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "2",
+      "lib": "inherits@2",
+      "isdev": false
+    },
+    {
+      "name": "once",
+      "version": "^1.3.0",
+      "lib": "once@^1.3.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "4.2.10",
+      "lib": "graceful-fs@4.2.10",
+      "isdev": false
+    },
+    {
+      "name": "has",
+      "version": "1.0.3",
+      "lib": "has@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "function-bind",
+      "version": "^1.1.1",
+      "lib": "function-bind@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "has-flag",
+      "version": "4.0.0",
+      "lib": "has-flag@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "has-unicode",
+      "version": "2.0.1",
+      "lib": "has-unicode@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "hosted-git-info",
+      "version": "5.0.0",
+      "lib": "hosted-git-info@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^7.5.1",
+      "lib": "lru-cache@^7.5.1",
+      "isdev": false
+    },
+    {
+      "name": "http-cache-semantics",
+      "version": "4.1.0",
+      "lib": "http-cache-semantics@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "5.0.0",
+      "lib": "http-proxy-agent@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@tootallnate/once",
+      "version": "2",
+      "lib": "@tootallnate/once@2",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "6",
+      "lib": "agent-base@6",
+      "isdev": false
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "5.0.1",
+      "lib": "https-proxy-agent@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "humanize-ms",
+      "version": "1.2.1",
+      "lib": "humanize-ms@1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "ms",
+      "version": "^2.0.0",
+      "lib": "ms@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "iconv-lite",
+      "version": "0.6.3",
+      "lib": "iconv-lite@0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "safer-buffer",
+      "version": ">= 2.1.2 < 3.0.0",
+      "lib": "safer-buffer@>= 2.1.2 < 3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "ieee754",
+      "version": "1.2.1",
+      "lib": "ieee754@1.2.1",
+      "isdev": false
+    },
+    {
+      "name": "ignore-walk",
+      "version": "5.0.1",
+      "lib": "ignore-walk@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "imurmurhash",
+      "version": "0.1.4",
+      "lib": "imurmurhash@0.1.4",
+      "isdev": false
+    },
+    {
+      "name": "indent-string",
+      "version": "4.0.0",
+      "lib": "indent-string@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "infer-owner",
+      "version": "1.0.4",
+      "lib": "infer-owner@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "inflight",
+      "version": "1.0.6",
+      "lib": "inflight@1.0.6",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4",
+      "lib": "inherits@2.0.4",
+      "isdev": false
+    },
+    {
+      "name": "ip",
+      "version": "1.1.8",
+      "lib": "ip@1.1.8",
+      "isdev": false
+    },
+    {
+      "name": "is-core-module",
+      "version": "2.9.0",
+      "lib": "is-core-module@2.9.0",
+      "isdev": false
+    },
+    {
+      "name": "has",
+      "version": "^1.0.3",
+      "lib": "has@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "lib": "is-fullwidth-code-point@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-interactive",
+      "version": "1.0.0",
+      "lib": "is-interactive@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-lambda",
+      "version": "1.0.1",
+      "lib": "is-lambda@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "is-unicode-supported",
+      "version": "0.1.0",
+      "lib": "is-unicode-supported@0.1.0",
+      "isdev": false
+    },
+    {
+      "name": "isexe",
+      "version": "2.0.0",
+      "lib": "isexe@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "2.3.1",
+      "lib": "json-parse-even-better-errors@2.3.1",
+      "isdev": false
+    },
+    {
+      "name": "json-stringify-nice",
+      "version": "1.1.4",
+      "lib": "json-stringify-nice@1.1.4",
+      "isdev": false
+    },
+    {
+      "name": "jsonfile",
+      "version": "6.1.0",
+      "lib": "jsonfile@6.1.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.1.6",
+      "lib": "graceful-fs@^4.1.6",
+      "isdev": false
+    },
+    {
+      "name": "jsonparse",
+      "version": "1.3.1",
+      "lib": "jsonparse@1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "just-diff",
+      "version": "5.0.3",
+      "lib": "just-diff@5.0.3",
+      "isdev": false
+    },
+    {
+      "name": "just-diff-apply",
+      "version": "5.3.1",
+      "lib": "just-diff-apply@5.3.1",
+      "isdev": false
+    },
+    {
+      "name": "log-symbols",
+      "version": "4.1.0",
+      "lib": "log-symbols@4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "^4.1.0",
+      "lib": "chalk@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "is-unicode-supported",
+      "version": "^0.1.0",
+      "lib": "is-unicode-supported@^0.1.0",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "7.13.0",
+      "lib": "lru-cache@7.13.0",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "10.1.8",
+      "lib": "make-fetch-happen@10.1.8",
+      "isdev": false
+    },
+    {
+      "name": "agentkeepalive",
+      "version": "^4.2.1",
+      "lib": "agentkeepalive@^4.2.1",
+      "isdev": false
+    },
+    {
+      "name": "cacache",
+      "version": "^16.1.0",
+      "lib": "cacache@^16.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-cache-semantics",
+      "version": "^4.1.0",
+      "lib": "http-cache-semantics@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "http-proxy-agent",
+      "version": "^5.0.0",
+      "lib": "http-proxy-agent@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "https-proxy-agent",
+      "version": "^5.0.0",
+      "lib": "https-proxy-agent@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-lambda",
+      "version": "^1.0.1",
+      "lib": "is-lambda@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass-fetch",
+      "version": "^2.0.3",
+      "lib": "minipass-fetch@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "negotiator",
+      "version": "^0.6.3",
+      "lib": "negotiator@^0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "socks-proxy-agent",
+      "version": "^7.0.0",
+      "lib": "socks-proxy-agent@^7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "mimic-fn",
+      "version": "2.1.0",
+      "lib": "mimic-fn@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "minimatch",
+      "version": "5.1.0",
+      "lib": "minimatch@5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "brace-expansion",
+      "version": "^2.0.1",
+      "lib": "brace-expansion@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minimist",
+      "version": "1.2.5",
+      "lib": "minimist@1.2.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "3.3.4",
+      "lib": "minipass@3.3.4",
+      "isdev": false
+    },
+    {
+      "name": "yallist",
+      "version": "^4.0.0",
+      "lib": "yallist@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "minipass-collect",
+      "version": "1.0.2",
+      "lib": "minipass-collect@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-fetch",
+      "version": "2.1.0",
+      "lib": "minipass-fetch@2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "encoding",
+      "version": "^0.1.13",
+      "lib": "encoding@^0.1.13",
+      "isdev": false
+    },
+    {
+      "name": "minipass-sized",
+      "version": "^1.0.3",
+      "lib": "minipass-sized@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "^2.1.2",
+      "lib": "minizlib@^2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "minipass-flush",
+      "version": "1.0.5",
+      "lib": "minipass-flush@1.0.5",
+      "isdev": false
+    },
+    {
+      "name": "minipass-json-stream",
+      "version": "1.0.1",
+      "lib": "minipass-json-stream@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "jsonparse",
+      "version": "^1.3.1",
+      "lib": "jsonparse@^1.3.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass-pipeline",
+      "version": "1.2.4",
+      "lib": "minipass-pipeline@1.2.4",
+      "isdev": false
+    },
+    {
+      "name": "minipass-sized",
+      "version": "1.0.3",
+      "lib": "minipass-sized@1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "2.1.2",
+      "lib": "minizlib@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "1.0.4",
+      "lib": "mkdirp@1.0.4",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp-infer-owner",
+      "version": "2.0.0",
+      "lib": "mkdirp-infer-owner@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "mkdirp",
+      "version": "^1.0.3",
+      "lib": "mkdirp@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "negotiator",
+      "version": "0.6.3",
+      "lib": "negotiator@0.6.3",
+      "isdev": false
+    },
+    {
+      "name": "node-gyp",
+      "version": "9.1.0",
+      "lib": "node-gyp@9.1.0",
+      "isdev": false
+    },
+    {
+      "name": "env-paths",
+      "version": "^2.2.0",
+      "lib": "env-paths@^2.2.0",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^7.1.4",
+      "lib": "glob@^7.1.4",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.2.6",
+      "lib": "graceful-fs@^4.2.6",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "^10.0.3",
+      "lib": "make-fetch-happen@^10.0.3",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "^6.0.0",
+      "lib": "npmlog@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "^6.1.2",
+      "lib": "tar@^6.1.2",
+      "isdev": false
+    },
+    {
+      "name": "nopt",
+      "version": "5.0.0",
+      "lib": "nopt@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "abbrev",
+      "version": "1",
+      "lib": "abbrev@1",
+      "isdev": false
+    },
+    {
+      "name": "normalize-package-data",
+      "version": "4.0.0",
+      "lib": "normalize-package-data@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "hosted-git-info",
+      "version": "^5.0.0",
+      "lib": "hosted-git-info@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-core-module",
+      "version": "^2.8.1",
+      "lib": "is-core-module@^2.8.1",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-license",
+      "version": "^3.0.4",
+      "lib": "validate-npm-package-license@^3.0.4",
+      "isdev": false
+    },
+    {
+      "name": "npm-audit-report",
+      "version": "3.0.0",
+      "lib": "npm-audit-report@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "chalk",
+      "version": "^4.0.0",
+      "lib": "chalk@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "1.1.2",
+      "lib": "npm-bundled@1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "npm-install-checks",
+      "version": "5.0.0",
+      "lib": "npm-install-checks@5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "^7.1.1",
+      "lib": "semver@^7.1.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-normalize-package-bin",
+      "version": "1.0.1",
+      "lib": "npm-normalize-package-bin@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "9.1.0",
+      "lib": "npm-package-arg@9.1.0",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "^2.0.1",
+      "lib": "proc-log@^2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-name",
+      "version": "^4.0.0",
+      "lib": "validate-npm-package-name@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-packlist",
+      "version": "5.1.1",
+      "lib": "npm-packlist@5.1.1",
+      "isdev": false
+    },
+    {
+      "name": "ignore-walk",
+      "version": "^5.0.1",
+      "lib": "ignore-walk@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-bundled",
+      "version": "^1.1.2",
+      "lib": "npm-bundled@^1.1.2",
+      "isdev": false
+    },
+    {
+      "name": "npm-pick-manifest",
+      "version": "7.0.1",
+      "lib": "npm-pick-manifest@7.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "13.2.0",
+      "lib": "npm-registry-fetch@13.2.0",
+      "isdev": false
+    },
+    {
+      "name": "make-fetch-happen",
+      "version": "^10.0.6",
+      "lib": "make-fetch-happen@^10.0.6",
+      "isdev": false
+    },
+    {
+      "name": "minipass-json-stream",
+      "version": "^1.0.1",
+      "lib": "minipass-json-stream@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npm-package-arg",
+      "version": "^9.0.1",
+      "lib": "npm-package-arg@^9.0.1",
+      "isdev": false
+    },
+    {
+      "name": "npmlog",
+      "version": "6.0.2",
+      "lib": "npmlog@6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "are-we-there-yet",
+      "version": "^3.0.0",
+      "lib": "are-we-there-yet@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "gauge",
+      "version": "^4.0.3",
+      "lib": "gauge@^4.0.3",
+      "isdev": false
+    },
+    {
+      "name": "set-blocking",
+      "version": "^2.0.0",
+      "lib": "set-blocking@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "once",
+      "version": "1.4.0",
+      "lib": "once@1.4.0",
+      "isdev": false
+    },
+    {
+      "name": "onetime",
+      "version": "5.1.2",
+      "lib": "onetime@5.1.2",
+      "isdev": false
+    },
+    {
+      "name": "mimic-fn",
+      "version": "^2.1.0",
+      "lib": "mimic-fn@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "ora",
+      "version": "5.4.1",
+      "lib": "ora@5.4.1",
+      "isdev": false
+    },
+    {
+      "name": "bl",
+      "version": "^4.1.0",
+      "lib": "bl@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-cursor",
+      "version": "^3.1.0",
+      "lib": "cli-cursor@^3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "cli-spinners",
+      "version": "^2.5.0",
+      "lib": "cli-spinners@^2.5.0",
+      "isdev": false
+    },
+    {
+      "name": "is-interactive",
+      "version": "^1.0.0",
+      "lib": "is-interactive@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "log-symbols",
+      "version": "^4.1.0",
+      "lib": "log-symbols@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "^6.0.0",
+      "lib": "strip-ansi@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wcwidth",
+      "version": "^1.0.1",
+      "lib": "wcwidth@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "p-map",
+      "version": "4.0.0",
+      "lib": "p-map@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "aggregate-error",
+      "version": "^3.0.0",
+      "lib": "aggregate-error@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "pacote",
+      "version": "13.6.1",
+      "lib": "pacote@13.6.1",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/git",
+      "version": "^3.0.0",
+      "lib": "@npmcli/git@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "@npmcli/run-script",
+      "version": "^4.1.0",
+      "lib": "@npmcli/run-script@^4.1.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-packlist",
+      "version": "^5.1.0",
+      "lib": "npm-packlist@^5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "npm-registry-fetch",
+      "version": "^13.0.1",
+      "lib": "npm-registry-fetch@^13.0.1",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json",
+      "version": "^5.0.0",
+      "lib": "read-package-json@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "parse-conflict-json",
+      "version": "2.0.2",
+      "lib": "parse-conflict-json@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "just-diff",
+      "version": "^5.0.1",
+      "lib": "just-diff@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "just-diff-apply",
+      "version": "^5.2.0",
+      "lib": "just-diff-apply@^5.2.0",
+      "isdev": false
+    },
+    {
+      "name": "path-is-absolute",
+      "version": "1.0.1",
+      "lib": "path-is-absolute@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "proc-log",
+      "version": "2.0.1",
+      "lib": "proc-log@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-all-reject-late",
+      "version": "1.0.1",
+      "lib": "promise-all-reject-late@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-call-limit",
+      "version": "1.0.1",
+      "lib": "promise-call-limit@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-inflight",
+      "version": "1.0.1",
+      "lib": "promise-inflight@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "promise-retry",
+      "version": "2.0.1",
+      "lib": "promise-retry@2.0.1",
+      "isdev": false
+    },
+    {
+      "name": "err-code",
+      "version": "^2.0.2",
+      "lib": "err-code@^2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "retry",
+      "version": "^0.12.0",
+      "lib": "retry@^0.12.0",
+      "isdev": false
+    },
+    {
+      "name": "read-cmd-shim",
+      "version": "3.0.0",
+      "lib": "read-cmd-shim@3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json",
+      "version": "5.0.1",
+      "lib": "read-package-json@5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "normalize-package-data",
+      "version": "^4.0.0",
+      "lib": "normalize-package-data@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "read-package-json-fast",
+      "version": "2.0.3",
+      "lib": "read-package-json-fast@2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "json-parse-even-better-errors",
+      "version": "^2.3.0",
+      "lib": "json-parse-even-better-errors@^2.3.0",
+      "isdev": false
+    },
+    {
+      "name": "readable-stream",
+      "version": "3.6.0",
+      "lib": "readable-stream@3.6.0",
+      "isdev": false
+    },
+    {
+      "name": "inherits",
+      "version": "^2.0.3",
+      "lib": "inherits@^2.0.3",
+      "isdev": false
+    },
+    {
+      "name": "string_decoder",
+      "version": "^1.1.1",
+      "lib": "string_decoder@^1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "util-deprecate",
+      "version": "^1.0.1",
+      "lib": "util-deprecate@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "readdir-scoped-modules",
+      "version": "1.1.0",
+      "lib": "readdir-scoped-modules@1.1.0",
+      "isdev": false
+    },
+    {
+      "name": "debuglog",
+      "version": "^1.0.1",
+      "lib": "debuglog@^1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "dezalgo",
+      "version": "^1.0.0",
+      "lib": "dezalgo@^1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "graceful-fs",
+      "version": "^4.1.2",
+      "lib": "graceful-fs@^4.1.2",
+      "isdev": false
+    },
+    {
+      "name": "restore-cursor",
+      "version": "3.1.0",
+      "lib": "restore-cursor@3.1.0",
+      "isdev": false
+    },
+    {
+      "name": "onetime",
+      "version": "^5.1.0",
+      "lib": "onetime@^5.1.0",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "^3.0.2",
+      "lib": "signal-exit@^3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "retry",
+      "version": "0.12.0",
+      "lib": "retry@0.12.0",
+      "isdev": false
+    },
+    {
+      "name": "rimraf",
+      "version": "3.0.2",
+      "lib": "rimraf@3.0.2",
+      "isdev": false
+    },
+    {
+      "name": "glob",
+      "version": "^7.1.3",
+      "lib": "glob@^7.1.3",
+      "isdev": false
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.2.1",
+      "lib": "safe-buffer@5.2.1",
+      "isdev": false
+    },
+    {
+      "name": "safer-buffer",
+      "version": "2.1.2",
+      "lib": "safer-buffer@2.1.2",
+      "isdev": false
+    },
+    {
+      "name": "semver",
+      "version": "7.3.7",
+      "lib": "semver@7.3.7",
+      "isdev": false
+    },
+    {
+      "name": "lru-cache",
+      "version": "^6.0.0",
+      "lib": "lru-cache@^6.0.0",
+      "isdev": false
+    },
+    {
+      "name": "set-blocking",
+      "version": "2.0.0",
+      "lib": "set-blocking@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "signal-exit",
+      "version": "3.0.7",
+      "lib": "signal-exit@3.0.7",
+      "isdev": false
+    },
+    {
+      "name": "smart-buffer",
+      "version": "4.2.0",
+      "lib": "smart-buffer@4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "socks",
+      "version": "2.6.2",
+      "lib": "socks@2.6.2",
+      "isdev": false
+    },
+    {
+      "name": "ip",
+      "version": "^1.1.5",
+      "lib": "ip@^1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "smart-buffer",
+      "version": "^4.2.0",
+      "lib": "smart-buffer@^4.2.0",
+      "isdev": false
+    },
+    {
+      "name": "socks-proxy-agent",
+      "version": "7.0.0",
+      "lib": "socks-proxy-agent@7.0.0",
+      "isdev": false
+    },
+    {
+      "name": "agent-base",
+      "version": "^6.0.2",
+      "lib": "agent-base@^6.0.2",
+      "isdev": false
+    },
+    {
+      "name": "debug",
+      "version": "^4.3.3",
+      "lib": "debug@^4.3.3",
+      "isdev": false
+    },
+    {
+      "name": "socks",
+      "version": "^2.6.2",
+      "lib": "socks@^2.6.2",
+      "isdev": false
+    },
+    {
+      "name": "spdx-correct",
+      "version": "3.1.1",
+      "lib": "spdx-correct@3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "spdx-expression-parse",
+      "version": "^3.0.0",
+      "lib": "spdx-expression-parse@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-license-ids",
+      "version": "^3.0.0",
+      "lib": "spdx-license-ids@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "2.3.0",
+      "lib": "spdx-exceptions@2.3.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-expression-parse",
+      "version": "3.0.1",
+      "lib": "spdx-expression-parse@3.0.1",
+      "isdev": false
+    },
+    {
+      "name": "spdx-exceptions",
+      "version": "^2.1.0",
+      "lib": "spdx-exceptions@^2.1.0",
+      "isdev": false
+    },
+    {
+      "name": "spdx-license-ids",
+      "version": "3.0.11",
+      "lib": "spdx-license-ids@3.0.11",
+      "isdev": false
+    },
+    {
+      "name": "ssri",
+      "version": "9.0.1",
+      "lib": "ssri@9.0.1",
+      "isdev": false
+    },
+    {
+      "name": "minipass",
+      "version": "^3.1.1",
+      "lib": "minipass@^3.1.1",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "lib": "string-width@4.2.3",
+      "isdev": false
+    },
+    {
+      "name": "emoji-regex",
+      "version": "^8.0.0",
+      "lib": "emoji-regex@^8.0.0",
+      "isdev": false
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "^3.0.0",
+      "lib": "is-fullwidth-code-point@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.3.0",
+      "lib": "string_decoder@1.3.0",
+      "isdev": false
+    },
+    {
+      "name": "safe-buffer",
+      "version": "~5.2.0",
+      "lib": "safe-buffer@~5.2.0",
+      "isdev": false
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "lib": "strip-ansi@6.0.1",
+      "isdev": false
+    },
+    {
+      "name": "ansi-regex",
+      "version": "^5.0.1",
+      "lib": "ansi-regex@^5.0.1",
+      "isdev": false
+    },
+    {
+      "name": "supports-color",
+      "version": "7.2.0",
+      "lib": "supports-color@7.2.0",
+      "isdev": false
+    },
+    {
+      "name": "has-flag",
+      "version": "^4.0.0",
+      "lib": "has-flag@^4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "tar",
+      "version": "6.1.11",
+      "lib": "tar@6.1.11",
+      "isdev": false
+    },
+    {
+      "name": "fs-minipass",
+      "version": "^2.0.0",
+      "lib": "fs-minipass@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "minizlib",
+      "version": "^2.1.1",
+      "lib": "minizlib@^2.1.1",
+      "isdev": false
+    },
+    {
+      "name": "treeverse",
+      "version": "2.0.0",
+      "lib": "treeverse@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "unique-filename",
+      "version": "1.1.1",
+      "lib": "unique-filename@1.1.1",
+      "isdev": false
+    },
+    {
+      "name": "unique-slug",
+      "version": "^2.0.0",
+      "lib": "unique-slug@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "unique-slug",
+      "version": "2.0.2",
+      "lib": "unique-slug@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "imurmurhash",
+      "version": "^0.1.4",
+      "lib": "imurmurhash@^0.1.4",
+      "isdev": false
+    },
+    {
+      "name": "universalify",
+      "version": "2.0.0",
+      "lib": "universalify@2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "lib": "util-deprecate@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-license",
+      "version": "3.0.4",
+      "lib": "validate-npm-package-license@3.0.4",
+      "isdev": false
+    },
+    {
+      "name": "spdx-correct",
+      "version": "^3.0.0",
+      "lib": "spdx-correct@^3.0.0",
+      "isdev": false
+    },
+    {
+      "name": "validate-npm-package-name",
+      "version": "4.0.0",
+      "lib": "validate-npm-package-name@4.0.0",
+      "isdev": false
+    },
+    {
+      "name": "builtins",
+      "version": "^5.0.0",
+      "lib": "builtins@^5.0.0",
+      "isdev": false
+    },
+    {
+      "name": "walk-up-path",
+      "version": "1.0.0",
+      "lib": "walk-up-path@1.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wcwidth",
+      "version": "1.0.1",
+      "lib": "wcwidth@1.0.1",
+      "isdev": false
+    },
+    {
+      "name": "defaults",
+      "version": "^1.0.3",
+      "lib": "defaults@^1.0.3",
+      "isdev": false
+    },
+    {
+      "name": "which",
+      "version": "2.0.2",
+      "lib": "which@2.0.2",
+      "isdev": false
+    },
+    {
+      "name": "isexe",
+      "version": "^2.0.0",
+      "lib": "isexe@^2.0.0",
+      "isdev": false
+    },
+    {
+      "name": "wide-align",
+      "version": "1.1.5",
+      "lib": "wide-align@1.1.5",
+      "isdev": false
+    },
+    {
+      "name": "string-width",
+      "version": "^1.0.2 || 2 || 3 || 4",
+      "lib": "string-width@^1.0.2 || 2 || 3 || 4",
+      "isdev": false
+    },
+    {
+      "name": "wrappy",
+      "version": "1.0.2",
+      "lib": "wrappy@1.0.2",
+      "isdev": false
+    },
+    {
+      "name": "write-file-atomic",
+      "version": "4.0.1",
+      "lib": "write-file-atomic@4.0.1",
+      "isdev": false
+    },
+    {
+      "name": "yallist",
+      "version": "4.0.0",
+      "lib": "yallist@4.0.0",
+      "isdev": false
+    }
+  ]
+}

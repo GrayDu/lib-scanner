@@ -1,0 +1,35 @@
+{
+  "outdated": [
+    {
+      "name": "chalk",
+      "cur": "4.0.0",
+      "wanted": "4.1.2",
+      "latest": "5.0.1"
+    },
+    {
+      "name": "commander",
+      "cur": "9.3.0",
+      "wanted": "9.4.0",
+      "latest": "9.4.0"
+    },
+    {
+      "name": "minimist",
+      "cur": "1.2.5",
+      "wanted": "1.2.6",
+      "latest": "1.2.6"
+    }
+  ],
+  "audit": [
+    {
+      "level": "critical",
+      "package": "minimist",
+      "message": "Prototype Pollution in minimist",
+      "path": [
+        "node_modules/minimist"
+      ],
+      "referrer": "https://github.com/advisories/GHSA-xvch-5gv4-984h",
+      "range": "<1.2.6",
+      "isdev": false
+    }
+  ]
+}

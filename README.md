@@ -11,6 +11,43 @@
   # 查询项目的依赖包
   $ lg-scanner init
 
+  {
+    // 依赖的所有三方包
+    "total": [
+      {
+        // 包名
+        "name": "@gar/promisify", 
+        // 版本号
+        "version": "1.1.3",
+        "lib": "@gar/promisify@1.1.3",
+        // 是否开发环境依赖
+        "isdev": false
+      },
+      ...
+    ],
+    // 仅开发环境依赖
+    "dev": [
+      {
+        "name": "@npmcli/installed-package-contents",
+        "version": "^1.0.7",
+        "lib": "@npmcli/installed-package-contents@^1.0.7",
+        "isdev": true
+      },
+      ...
+    ],
+    // 生产环境依赖
+    "pro": [
+      {
+        "name": "@gar/promisify",
+        "version": "1.1.3",
+        "lib": "@gar/promisify@1.1.3",
+        "isdev": false
+      },
+      ...
+    ]
+
+  }
+
 
   # 执行npm audit 检查并输出结果
   $ lg-scanner audit
